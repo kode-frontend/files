@@ -1,34 +1,33 @@
-
 {
   "category": [
     {
       "category_id": "1",
       "category_name": "Мобильная связь",
       "category_icon": "https://github.com/kode-frontend/files/raw/main/1_mobile.png",
-      "serviсes": [
+      "services": [
         {
-          "serviсe_id": "11",
-          "serviсe_name": "МТС",
+          "service_id": "11",
+          "service_name": "МТС",
           "service_icon": "https://github.com/kode-frontend/files/raw/main/MTS.png"
         },
         {
-          "serviсe_id": "12",
-          "serviсe_name": "МегаФон",
+          "service_id": "12",
+          "service_name": "МегаФон",
           "service_icon": "https://github.com/kode-frontend/files/raw/main/megafon.png"
         },
         {
-          "serviсe_id": "13",
-          "serviсe_name": "Beeline",
+          "service_id": "13",
+          "service_name": "Beeline",
           "service_icon": "https://github.com/kode-frontend/files/raw/main/beeline.png"
         },
         {
-          "serviсe_id": "14",
-          "serviсe_name": "Tele2",
+          "service_id": "14",
+          "service_name": "Tele2",
           "service_icon": "https://github.com/kode-frontend/files/raw/main/tele2.png"
         },
         {
-          "serviсe_id": "15",
-          "serviсe_name": "Kode Mobile",
+          "service_id": "15",
+          "service_name": "Kode Mobile",
           "service_icon": "https://github.com/kode-frontend/files/raw/main/kode.png"
         }
       ]
@@ -37,13 +36,13 @@
       "category_id": "2",
       "category_name": "ЖКХ",
       "category_icon": "https://github.com/kode-frontend/files/raw/main/1_JKH.png",
-      "serviсes": []
+      "services": []
     },
     {
       "category_id": "3",
       "category_name": "Интернет",
       "category_icon": "https://github.com/kode-frontend/files/raw/main/1_Internet.png",
-      "serviсes": []
+      "services": []
     }
   ]
 }
